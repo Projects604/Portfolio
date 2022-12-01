@@ -140,7 +140,7 @@ nav a:hover {
   .nav-links {
     position: absolute;
     right: 1rem;
-    height: 25vh;
+    height: 20vh;
     top: 5vh;
     width: 35%; 
     display: flex;
